@@ -1,6 +1,6 @@
 - Hi, I’m @CodedCrow, Crow for short
 - I'm new and probably will not update this in a very long time
-- I’m interested in learning to program
+- I’m interested in learning to program and cyber security.
 - I’m currently learning C#
 
 <!---
